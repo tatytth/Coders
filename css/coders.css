@@ -1,0 +1,71 @@
+	body{
+		margin:auto;
+	}
+	
+	h4{
+		margin-left: 5px;
+		bottom:5px;
+		font-size: 15px;
+		font-weight: bold;
+		font-family: Courier New;
+	}
+
+	p{
+		position: absolute;
+		margin:0px;
+		padding:0px;
+		bottom:5px;
+		right:10px;
+		font-size: 12px;
+		color: black;
+		font-weight: bold;
+		font-family: Courier New;
+	}
+
+	.line{
+		border-bottom: 3px solid black;
+		width: 150px;
+	}
+
+	.block{
+			position: relative;
+			margin-left: auto;
+			margin-right: auto;
+			width: 780px;
+			margin-top: 50px;
+			
+		}
+	.box{
+		width:210px;
+		height:210px;
+		position: relative;
+		float: left;
+		margin: 15px;
+		
+	}
+		
+	.coder1{
+		background-image: url("../img/coder1.jpg");
+		margin
+		}
+
+	.coder2{
+		background-image:url("../img/coder2.jpg");
+		}
+
+	.coder3{
+		background-image:url("../img/coder3.jpg"); 
+		
+		}
+	.coder4{
+		background-image: url("../img/coder4.jpg");
+		
+	}
+	.coder5{
+		background-image: url("../img/coder5.jpg");
+		
+	}
+	.coder6{
+		background-image:url("../img/coder6.jpg"); 
+		
+	
